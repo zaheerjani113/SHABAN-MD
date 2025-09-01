@@ -109,12 +109,25 @@ jobs:
 
 -------
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
+
+
+> 🔔 Stay Connected For Updates Feature Drops And Tutorials!
+
+- ▶️ **YouTube SHABAN MD**  
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_)
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
+</p>
 
 ## ⚠️ _WARNING !_
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+  <p style="color: #ffffff;">This Bot Is Not Affiliated With WhatsApp Inc. Use At Your Own Risk Misuse May Result In Account Bans</p>
 </div>
 
 ## 🗃️ _PROJECT ARCHITECTS_
