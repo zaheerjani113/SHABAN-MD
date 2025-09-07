@@ -61,7 +61,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
 -------------
 
-<a href="https://shabanmd.zone.id/">
+<a href="https://shaban.lovestoblog.com/">
   <img 
     title="DEPLOY-NOW" 
     src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-9400D3?style=for-the-badge&logo=vercel&logoColor=blue"
