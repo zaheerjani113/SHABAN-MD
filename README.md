@@ -54,8 +54,10 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 <a href='https://solar-linnell-shabansobxmd-409a0aff.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-008080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
+  
+-------------
 
-  <a href='https://shabanmd-pairweb.zone.id/' target="_blank">
+  <a href='https://teenage-esmeralda-sk66-485109a3.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF8C00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
